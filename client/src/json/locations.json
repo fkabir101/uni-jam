@@ -1,153 +1,41 @@
 [
   {
-      "option": "AL"
+      "option": "Alberta"
   },
   {
-      "option": "AK"
+      "option": "British Columbia"
   },
   {
-      "option": "AZ"
+      "option": "Manitoba"
   },
   {
-      "option": "AR"
+      "option": "New Brunswick"
   },
   {
-      "option": "CA"
+      "option": "Newfoundland and Labrador"
   },
   {
-      "option": "CO"
+      "option": "Nova Scotia"
   },
   {
-      "option": "CT"
+      "option": "Northwest Territories"
   },
   {
-      "option": "DE"
+      "option": "Nunavut"
   },
   {
-      "option": "FL"
+      "option": "Ontario"
   },
   {
-      "option": "GA"
+      "option": "Prince Edward Island"
   },
   {
-      "option": "HI"
+      "option": "Québec"
   },
   {
-      "option": "ID"
+      "option": "Saskatchewan"
   },
   {
-      "option": "IL"
-  },
-  {
-      "option": "IN"
-  },
-  {
-      "option": "IA"
-  },
-  {
-      "option": "KS"
-  },
-  {
-      "option": "KY"
-  },
-  {
-      "option": "LA"
-  },
-  {
-      "option": "ME"
-  },
-  {
-      "option": "MD"
-  },
-  {
-      "option": "MA"
-  },
-  {
-      "option": "MI"
-  },
-  {
-      "option": "MN"
-  },
-  {
-      "option": "MS"
-  },
-  {
-      "option": "MO"
-  },
-  {
-      "option": "MT"
-  },
-  {
-      "option": "NE"
-  },
-  {
-      "option": "NV"
-  },
-  {
-      "option": "NH"
-  },
-  {
-      "option": "NJ"
-  },
-  {
-      "option": "NM"
-  },
-  {
-      "option": "NY"
-  },
-  {
-      "option": "NC"
-  },
-  {
-      "option": "ND"
-  },
-  {
-      "name": "Ohio",
-      "option": "OH"
-  },
-  {
-      "option": "OK"
-  },
-  {
-      "option": "OR"
-  },
-  {
-      "option": "PA"
-  },
-  {
-      "option": "RI"
-  },
-  {
-      "option": "SC"
-  },
-  {
-      "option": "SD"
-  },
-  {
-      "option": "TN"
-  },
-  {
-      "option": "TX"
-  },
-  {
-      "option": "UT"
-  },
-  {
-      "option": "VT"
-  },
-  {
-      "option": "VA"
-  },
-  {
-      "option": "WA"
-  },
-  {
-      "option": "WV"
-  },
-  {
-      "option": "WI"
-  },
-  {
-      "option": "WY"
+      "option": "Yukon"
   }
 ]

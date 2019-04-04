@@ -1,22 +1,17 @@
 [
   {
-    "option": "Street Fighter 5",
+    "option": "Rock",
     "id": "SF5",
-    "logoRef": "/images/SFV_Logo.png"
+    "logoRef": "/images/rock-logo.png"
   },
   {
-    "option": "Tekken 7",
+    "option": "Punk",
     "id": "T7",
-    "logoRef": "/images/T7_Logo.png"
+    "logoRef": "/images/punk-logo.png"
   },
   {
-    "option": "Super Smash Bros. Ultimate",
+    "option": "Country",
     "id": "SSMU",
-    "logoRef": "/images/SSMU_Logo.png"
-  },
-  {
-    "option": "Dragon Ball Fighterz",
-    "id": "DBFZ",
-    "logoRef": "/images/DBFZ_Logo.jpg"
+    "logoRef": "/images/country-logo.png"
   }
 ]
