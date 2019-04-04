@@ -1,0 +1,22 @@
+[
+  {
+    "option": "Street Fighter 5",
+    "id": "SF5",
+    "logoRef": "/images/SFV_Logo.png"
+  },
+  {
+    "option": "Tekken 7",
+    "id": "T7",
+    "logoRef": "/images/T7_Logo.png"
+  },
+  {
+    "option": "Super Smash Bros. Ultimate",
+    "id": "SSMU",
+    "logoRef": "/images/SSMU_Logo.png"
+  },
+  {
+    "option": "Dragon Ball Fighterz",
+    "id": "DBFZ",
+    "logoRef": "/images/DBFZ_Logo.jpg"
+  }
+]

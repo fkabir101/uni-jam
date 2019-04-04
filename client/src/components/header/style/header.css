@@ -1,0 +1,41 @@
+
+.nav-item {
+  margin-left: 3px;
+}
+
+#header {
+  margin-bottom: 50px;
+}
+
+#userLink {
+  color: black;
+}
+
+#createLink {
+  color: black;
+} 
+
+#logoutLink {
+  color: black;
+}
+
+#title {
+  font-size: 300%;
+  font-family: "lobster";
+}
+.btn {
+  margin: 2px;
+}
+
+#userJumbo {
+  margin: 4px;
+}
+
+#actionCard {
+  margin: 4px;
+}
+
+#rowJumbo {
+  margin-left: 20px;
+  margin-bottom: 150px;
+}
